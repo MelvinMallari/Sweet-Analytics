@@ -1,0 +1,11 @@
+1. Name: 
+  - Sweet
+2. Members:
+  - Danny Yan
+  - Grady Zhu
+  - Melvin Mallari
+  - Ryan Foong
+3. 
+  - Upload your twitter profile. We'll utilize a sentiment analysis library and the twitter API to display visual data about the aggregate of your tweets. This gives you a summary what kind of online presesence you hold.
+4. 
+  - Curate top items based on a given stack of websites that you're interested it. Build a webscraper to pull the relevant Data.  
